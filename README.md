@@ -378,3 +378,22 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0016268585_Despacho_1858-13.pdf`
 - `SEI_0016271711_Portaria_1606-1-14.pdf`
 - `SEI_0016303757_Despacho_1376-15.pdf`
+
+## Bloco 19 (17/06/2026) — Dossiê SEI 0016xxxxxx (execução / NF / relatórios)
+
+- `02-0016608273_Anexo.pdf`
+- `03-0016622062_Nota_Fiscal-2.pdf`
+- `04-0016704631_Nota_Fiscal-3.pdf`
+- `05-0016711830_Relatorio-4.pdf`
+- `06-0016711880_Relatorio-5.pdf`
+- `07-0016711909_Relatorio-6.pdf`
+- `08-0016712267_Relatorio-7.pdf`
+- `09-0016712309_Portaria-8.pdf`
+- `10-0016712455_Nota_de_Empenho-9.pdf`
+- `11-0016713097_Termo_Aditivo-10.pdf`
+- `15-0016713505_Planilha-11.xlsx`
+- `16-0016713530_Planilha-12.xlsx`
+- `17-0016713533_Certidao-13.pdf`
+- `21-0016741190_Despacho-14.pdf`
+- `28-0016927095_Anexo-15.pdf`
+- `29-0016927118_Anexo-16.pdf`
