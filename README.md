@@ -142,3 +142,32 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `037-0012165670_Anexo-21.pdf`
 - `038-0012165872_Anexo-22.pdf`
 - `039-0012172528_Anexo-23.pdf`
+
+## Bloco 11 (17/06/2026) — Série SEI 0012xxxxxx/0013xxxxxx
+
+- `040-0012233299_Portaria__no_975_de_13_de_dezembro_de_2022.pdf`
+- `041-0012233647_Documento_s_complementares___DNA_do_Esporte-2.pdf`
+- `042-0012233651_RG_E_CPF_Wilson_Cardoso_aut-3.pdf`
+- `043-0012233653_Carta_CARTAO_CNPJ_IDECACE-4.pdf`
+- `044-0012233654_Balancete_Analitico_2022-5.pdf`
+- `045-0012233655_Balanco_Patrimonial_2022-6.pdf`
+- `046-0012233656_Demonstracao_das_Mutacoes_2022-7.pdf`
+- `047-0012233657_Demonstracao_do_Fluxo_de_Caixa_2022-8.pdf`
+- `048-0012233658_Demonstracao_do_Resultado_2022-9.pdf`
+- `049-0012233659_Comprovante_Endereco-10.pdf`
+- `050-0012233667_Anexo_I_II_III_Declaracao_de_nao_Ocorrencia_de_Impedime-11.pdf`
+- `051-0012233669_Anexo_IX__X___Declaracao_de_Comprovacao_de_Existencia_-12.pdf`
+- `052-0012233670_Declaracao_Exclusividade_Singularidade_de_Objeto-13.pdf`
+- `053-0012282387_Consulta_e_resposta_FNDE-14.pdf`
+- `060-0012386110_Anexo_Agente_de_Contratacao-15.pdf`
+- `061-0012386314_Consulta_Portal_de_Transparencia-16.pdf`
+- `062-0012388703_E_mail_Resposta_Complementar_FNDE-17.pdf`
+- `066-0012442924_Despacho-18.pdf`
+- `070-0012880124_Anexo-19.pdf`
+- `071-0012880161_Anexo-20.pdf`
+- `072-0012880214_Anexo-21.pdf`
+- `073-0012880286_Anexo-22.pdf`
+- `074-0012920994_Anexo-23.xlsx`
+- `077-0013053125_Anexo-24.xlsx`
+- `080-0013418035_Parecer-25.pdf`
+- `081-0013418051_Despacho-26.pdf`
