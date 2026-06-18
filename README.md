@@ -360,3 +360,21 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0015970976_Relatorio_de_Analise_1114-27.pdf`
 - `SEI_0015971088_Despacho_2670-28.pdf`
 - `SEI_0015998521_Despacho_1167-29.pdf`
+
+## Bloco 18 (17/06/2026) — Tramitação SEI 0016xxxxxx
+
+- `SEI_0016009778_Mapa_de_Preco_892.pdf`
+- `SEI_0016009792_Despacho_2723-2.pdf`
+- `SEI_0016017090_Despacho_687-3.pdf`
+- `SEI_0016017352_Despacho_2754-4.pdf`
+- `SEI_0016022525_Ordem_de_Servico_ou_de_Fornecimento_de_Bens_1221-5-5.pdf`
+- `SEI_0016208104_Memorando_49-1-6.pdf`
+- `SEI_0016209341_Despacho_48-7.pdf`
+- `SEI_0016210550_Despacho_1325-1-8.pdf`
+- `SEI_0016214205_Termo_de_Ciencia_1-1-9.pdf`
+- `SEI_0016264391_Memorando_51-1-10.pdf`
+- `SEI_0016265144_Memorando_220-11.pdf`
+- `SEI_0016265850_Termo_de_Ciencia_2-12.pdf`
+- `SEI_0016268585_Despacho_1858-13.pdf`
+- `SEI_0016271711_Portaria_1606-1-14.pdf`
+- `SEI_0016303757_Despacho_1376-15.pdf`
