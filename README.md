@@ -415,3 +415,8 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0016790609_Declaracao_de_Conformidade_1667-13.pdf`
 - `SEI_0016797395_Despacho_3042-14.pdf`
 - `SEI_0016927054_Despacho_4190-15.pdf`
+
+## Bloco 21 (17/06/2026) — Minutas DOCX
+
+- `OFICIO-No-AC.docx`
+- `Memorando_01-26_Carteira_Estudante_Acre-2.docx`
