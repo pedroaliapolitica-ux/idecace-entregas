@@ -116,3 +116,29 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0019740942_Declaracao_de_Conformidade_664-13.pdf`
 - `SEI_0019749194_Despacho_1550-14.pdf`
 - `SEI_0019979183_Despacho_2407-15.pdf`
+
+## Bloco 10 (17/06/2026) — Série SEI 0011xxxxxx/0012xxxxxx
+
+- `003-0011214998_Anexo.pdf`
+- `004-0011215008_Anexo-2.pdf`
+- `005-0011215034_Anexo-3.pdf`
+- `006-0011442684_Analise-4.pdf`
+- `007-0011442723_Oficio-5.pdf`
+- `008-0011443033_Atestado-6.pdf`
+- `009-0011443045_Atestado-7.pdf`
+- `010-0011443054_Atestado-8.pdf`
+- `013-0011460188_Anexo-9.pdf`
+- `014-0011460248_Anexo-10.pdf`
+- `015-0011460450_Anexo-11.pdf`
+- `016-0011460500_Anexo-12.pdf`
+- `017-0011460645_Anexo-13.pdf`
+- `018-0011460676_Anexo-14.pdf`
+- `020-0011529992_Anexo-15.pdf`
+- `023-0011836442_Anexo-16.xlsx`
+- `024-0011836495_Anexo-17.pdf`
+- `034-0012165026_Anexo-18.pdf`
+- `035-0012165080_Anexo-19.pdf`
+- `036-0012165120_Anexo-20.pdf`
+- `037-0012165670_Anexo-21.pdf`
+- `038-0012165872_Anexo-22.pdf`
+- `039-0012172528_Anexo-23.pdf`
