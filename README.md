@@ -299,3 +299,32 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0015048855_Despacho_2710-27.pdf`
 - `SEI_0015228829_Nota_Tecnica_1-28.pdf`
 - `SEI_0015246390_Memorando_28-29.pdf`
+
+## Bloco 16 (17/06/2026) — Tramitação SEI 0015xxxxxx
+
+- `SEI_0015246463_Memorando_29.pdf`
+- `SEI_0015254342_Despacho_5078-2.pdf`
+- `SEI_0015255817_Memorando_190-3.pdf`
+- `SEI_0015259831_Memorando_158-4.pdf`
+- `SEI_0015270116_Despacho_62-5.pdf`
+- `SEI_0015271993_Despacho_42-6.pdf`
+- `SEI_0015288707_Despacho_63-7.pdf`
+- `SEI_0015289051_Memorando_370-8.pdf`
+- `SEI_0015303022_Despacho_60-9.pdf`
+- `SEI_0015332884_Memorando_31-2-10.pdf`
+- `SEI_0015382803_Despacho_335-11.pdf`
+- `SEI_0015383354_Comunicacao_Interna_2-12.pdf`
+- `SEI_0015445986_Memorando_32-1-13.pdf`
+- `SEI_0015448461_Despacho_39-1-14.pdf`
+- `SEI_0015448999_Despacho_40-15.pdf`
+- `SEI_0015494597_Nota_Explicativa_70-16.pdf`
+- `SEI_0015573815_Memorando_33-17.pdf`
+- `SEI_0015576234_Memorando_34-18.pdf`
+- `SEI_0015578296_Memorando_35-19.pdf`
+- `SEI_0015622376_Memorando_109-3-20.pdf`
+- `SEI_0015623745_Autorizacao_754-1-21.pdf`
+- `SEI_0015653082_Despacho_45-22.pdf`
+- `SEI_0015667267_Declaracao_de_Adequacao_Orcamentaria_741-23.pdf`
+- `SEI_0015688013_Termo_de_Juntada_de_Documentos_2-24.pdf`
+- `SEI_0015690327_Termo_de_Referencia_307-25.pdf`
+- `SEI_0015690334_Minuta_de_Termo_de_Apostilamento_4-1-26.pdf`
