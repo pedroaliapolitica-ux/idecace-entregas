@@ -171,3 +171,35 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `077-0013053125_Anexo-24.xlsx`
 - `080-0013418035_Parecer-25.pdf`
 - `081-0013418051_Despacho-26.pdf`
+
+## Bloco 12 (17/06/2026) — Série SEI 0013xxxxxx a 0015xxxxxx (formalização Contrato 523/2024)
+
+- `092-0013618874_Anexo.pdf`
+- `095-0013644334_Publicacao_TERMO_DE_RATIFICACAO-2.pdf`
+- `096-0013665938_Comprovante_LICON-3.pdf`
+- `113-0013765614_Nota_de_Empenho-4.pdf`
+- `117-0013774682_Documento_Certidoes_Atualizadas-5.pdf`
+- `119-0013783391_Contrato_n__523_2024-6.pdf`
+- `121-0013784809_Nota_de_Empenho__ASSINADA_-7.pdf`
+- `122-0013798465_Publicacao_Contrato_n__523_2024-8.pdf`
+- `123-0013798488_Publicacao_Portaria_n__3101-9.pdf`
+- `124-0013802605_Comprovante_LICON-10.pdf`
+- `127-0014241193_Ordem-11.pdf`
+- `132-0014444334_Publicacao_Portaria_512-12.pdf`
+- `147-0015286905_Anexo-13.xlsx`
+- `155-0015446879_Anexo-14.pdf`
+- `156-0015446931_Anexo-15.pdf`
+- `157-0015446989_Anexo-16.pdf`
+- `158-0015447038_Anexo-17.xlsx`
+- `159-0015447095_Anexo-18.pdf`
+- `164-0015575777_Anexo-19.pdf`
+- `165-0015576178_Anexo-20.xlsx`
+- `170-0015640196_Anexo-21.pdf`
+- `171-0015640259_Anexo-22.pdf`
+- `175-0015688258_Anexo-23.pdf`
+- `176-0015688270_Anexo-24.pdf`
+- `177-0015688280_Cronograma-25.pdf`
+- `181-0015691938_Extrato_de_Empenho-26.pdf`
+- `184-0015708494_Anexo-27.pdf`
+- `185-0015709202_Anexo-28.pdf`
+- `193-0015793533_Anexo-29.pdf`
