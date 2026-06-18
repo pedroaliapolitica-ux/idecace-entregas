@@ -79,3 +79,22 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0017562800_Declaracao_de_Conformidade_2116-10.pdf`
 - `SEI_0017564715_Despacho_4965-11.pdf`
 - `SEI_0017757211_Despacho_5337-12.pdf`
+
+## Bloco 8 (17/06/2026)
+
+- `02-0019694917_Ordem.pdf`
+- `03-0019694928_Contrato-2.pdf`
+- `04-0019694999_Termo-3.pdf`
+- `05-0019695019_Extrato-4.pdf`
+- `06-0019695053_Portaria-5.pdf`
+- `07-0019695088_Nota-6.pdf`
+- `10-0019695822_Relatorio-7.pdf`
+- `11-0019695832_Relatorio-8.pdf`
+- `12-0019695837_Relatorio-9.pdf`
+- `13-0019695844_Relatorio-10.pdf`
+- `14-0019695940_Relatorio-11.pdf`
+- `15-0019696015_Folha-12.pdf`
+- `16-0019696126_Folha-13.pdf`
+- `17-0019696134_Folha-14.pdf`
+- `18-0019696141_Folha-15.pdf`
+- `19-0019696225_Folha-16.pdf`
