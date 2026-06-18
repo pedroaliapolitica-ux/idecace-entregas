@@ -233,3 +233,36 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0012292699_Despacho_880-25.pdf`
 - `SEI_0012357618_Comunicacao_Interna_1-26.pdf`
 - `SEI_0012381409_Termo_de_Referencia_317-27.pdf`
+
+## Bloco 14 (17/06/2026) — Tramitação SEI 0012xxxxxx/0013xxxxxx (instrução contratual)
+
+- `SEI_0012381410_Minuta_de_Contrato.pdf`
+- `SEI_0012388722_CheckList_42-2.pdf`
+- `SEI_0012388760_Oficio_8028-3.pdf`
+- `SEI_0012397477_Despacho_4031-4.pdf`
+- `SEI_0012446757_Despacho_3764-5.pdf`
+- `SEI_0012448110_Despacho_921-6.pdf`
+- `SEI_0012878471_Termo_de_Juntada_de_Documentos_38-7.pdf`
+- `SEI_0012920995_Despacho_61-8.pdf`
+- `SEI_0013053094_Errata-9.pdf`
+- `SEI_0013053129_Oficio_9628-10.pdf`
+- `SEI_0013074636_Despacho_4865-11.pdf`
+- `SEI_0013470986_Despacho_5344-12.pdf`
+- `SEI_0013475335_Despacho_3102-13.pdf`
+- `SEI_0013514591_Despacho_1277-14.pdf`
+- `SEI_0013514594_Justificativa_45-15.pdf`
+- `SEI_0013576439_Despacho_1289-16.pdf`
+- `SEI_0013600622_Despacho_71-17.pdf`
+- `SEI_0013604570_Despacho_1293-18.pdf`
+- `SEI_0013606289_Despacho_3223-19.pdf`
+- `SEI_0013618735_Minuta_de_Contrato-20.pdf`
+- `SEI_0013618769_Termo_Ratificacao_de_Inexigibilidade_de_Licitacao_29-21.pdf`
+- `SEI_0013620996_Despacho_2676-22.pdf`
+- `SEI_0013630053_Despacho_70-23.pdf`
+- `SEI_0013671616_Comunicacao_Interna_2-24.pdf`
+- `SEI_0013672109_Requisicao_para_fins_de_empenho_288-25.pdf`
+- `SEI_0013672238_Requisicao_para_fins_de_empenho_289-26.pdf`
+- `SEI_0013676527_Autorizacao_1883-27.pdf`
+- `SEI_0013676553_Portaria_3073-28.pdf`
+- `SEI_0013677339_Termo_de_Ciencia_20-2-29.pdf`
+- `SEI_0013688394_Errata-30.pdf`
