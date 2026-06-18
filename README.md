@@ -32,3 +32,10 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `Oficio-064.2026-IDECACE-Resposta-Parecer-16.03.26-1-4.pdf`
 - `Oficio-211.2026-IDECACE-Solicitacao-Prorrogacao-Vigencia-Contrato-523_2024-5.pdf`
 - `Oficio-221-e-anexos-6.pdf`
+
+## Bloco 4 (17/06/2026)
+
+- `Manifestacao-Tecnica-idecace.pdf`
+- `Notificacao_01_2026_SEE-ASAI-2-2.pdf`
+- `Oficio-022.2026-IDECACE-Resposta-Nota-Tecnica-SEE-AC-2-IDECACE-3.pdf`
+- `Resposta-a-Manifestacao-IDECACE-assinado-4.pdf`
