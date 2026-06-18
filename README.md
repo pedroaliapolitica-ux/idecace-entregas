@@ -203,3 +203,33 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `184-0015708494_Anexo-27.pdf`
 - `185-0015709202_Anexo-28.pdf`
 - `193-0015793533_Anexo-29.pdf`
+
+## Bloco 13 (17/06/2026) — Termo Aditivo 1 e dossiê pré-contratual SEI
+
+- `195-0015815494_Termo_Aditivo_1__T._A._CONT_523_2024.pdf`
+- `201-0015844142_Publicacao_1__T._A._CONT_523_2024-2.pdf`
+- `209-0015946122_Comprovante_LICON-3.pdf`
+- `218-0016017022_Nota_de_Empenho-4.pdf`
+- `222-0016033865_Ordem-5.pdf`
+- `232-0016303620_Publicacao_Port._N__1606-6.pdf`
+- `234-0016539690_Comprovante_LICON_DA_PORT._N__1606_2025-7.pdf`
+- `SEI_0011169207_Documento_de_Oficializacao_da_Demanda__DOD_-8.pdf`
+- `SEI_0011214698_Estudo_Tecnico_Preliminar_da_Contratacao-1-9.pdf`
+- `SEI_0011443066_Memorando_189-10.pdf`
+- `SEI_0011444739_Autorizacao_871-11.pdf`
+- `SEI_0011819324_Despacho_29-12.pdf`
+- `SEI_0011827848_Comunicacao_Interna_166-13.pdf`
+- `SEI_0011992045_Despacho_36-14.pdf`
+- `SEI_0012001020_Memorando_186-15.pdf`
+- `SEI_0012025402_Memorando_256-16.pdf`
+- `SEI_0012050022_Declaracao_de_Adequacao_Orcamentaria_707-17.pdf`
+- `SEI_0012052901_Comunicacao_Interna_192-18.pdf`
+- `SEI_0012062743_Minuta_de_Contrato-19.pdf`
+- `SEI_0012071261_Justificativa_141-20.pdf`
+- `SEI_0012071272_Memorando_40-21.pdf`
+- `SEI_0012158219_Memorando_64-22.pdf`
+- `SEI_0012282389_Despacho_879-23.pdf`
+- `SEI_0012288284_Parecer_658-24.pdf`
+- `SEI_0012292699_Despacho_880-25.pdf`
+- `SEI_0012357618_Comunicacao_Interna_1-26.pdf`
+- `SEI_0012381409_Termo_de_Referencia_317-27.pdf`
