@@ -328,3 +328,35 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0015688013_Termo_de_Juntada_de_Documentos_2-24.pdf`
 - `SEI_0015690327_Termo_de_Referencia_307-25.pdf`
 - `SEI_0015690334_Minuta_de_Termo_de_Apostilamento_4-1-26.pdf`
+
+## Bloco 17 (17/06/2026) — Tramitação SEI 0015xxxxxx (Termo Aditivo e requisições de empenho)
+
+- `SEI_0015691197_Memorando_161.pdf`
+- `SEI_0015698982_Memorando_36-2.pdf`
+- `SEI_0015708070_Nota_Explicativa_71-3.pdf`
+- `SEI_0015744336_Despacho_49-1-4.pdf`
+- `SEI_0015761503_Despacho_1414-5.pdf`
+- `SEI_0015762884_Despacho_34-6.pdf`
+- `SEI_0015770845_Despacho_1424-7.pdf`
+- `SEI_0015776181_Relatorio_de_Analise_1027-1-8.pdf`
+- `SEI_0015776301_Despacho_2475-9.pdf`
+- `SEI_0015793496_Memorando_41-10.pdf`
+- `SEI_0015808960_Termo_Aditivo-11.pdf`
+- `SEI_0015815500_Despacho_1105-12.pdf`
+- `SEI_0015821924_Despacho_53-13.pdf`
+- `SEI_0015833319_Despacho_42-4-14.pdf`
+- `SEI_0015833834_Requisicao_para_fins_de_empenho___SEE_1-2-15.pdf`
+- `SEI_0015843482_Despacho_838-16.pdf`
+- `SEI_0015845371_Despacho_1150-17.pdf`
+- `SEI_0015865199_Autorizacao_872-18.pdf`
+- `SEI_0015877387_Despacho_2541-19.pdf`
+- `SEI_0015879955_Despacho_43-20.pdf`
+- `SEI_0015880506_Requisicao_para_fins_de_empenho___SEE_2-21.pdf`
+- `SEI_0015895929_Despacho_2572-22.pdf`
+- `SEI_0015900434_Requisicao_para_fins_de_empenho___SEE_3-2-23.pdf`
+- `SEI_0015961107_Despacho_45-24.pdf`
+- `SEI_0015964564_Requisicao_para_fins_de_empenho_123-25.pdf`
+- `SEI_0015966459_Despacho_46-26.pdf`
+- `SEI_0015970976_Relatorio_de_Analise_1114-27.pdf`
+- `SEI_0015971088_Despacho_2670-28.pdf`
+- `SEI_0015998521_Despacho_1167-29.pdf`
