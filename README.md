@@ -98,3 +98,21 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `17-0019696134_Folha-14.pdf`
 - `18-0019696141_Folha-15.pdf`
 - `19-0019696225_Folha-16.pdf`
+
+## Bloco 9 (17/06/2026)
+
+- `20-0019696269_Planilha.xlsx`
+- `21-0019703872_Planilha-2.xlsx`
+- `22-0019703942_Certidao-3.pdf`
+- `23-0019704110_Anexo-4.pdf`
+- `24-0019704168_Anexo-5.pdf`
+- `25-0019704268_Relatorio-6.pdf`
+- `26-0019704306_Relatorio-7.pdf`
+- `27-0019704378_Relatorio-8.pdf`
+- `31-0019979464_Anexo-9.pdf`
+- `SEI_0019694743_Memorando_40-10.pdf`
+- `SEI_0019695102_Relatorio_de_Cumprimento_do_Objeto_3-11.pdf`
+- `SEI_0019695405_Atesto_Nota_Fiscal_1-12.pdf`
+- `SEI_0019740942_Declaracao_de_Conformidade_664-13.pdf`
+- `SEI_0019749194_Despacho_1550-14.pdf`
+- `SEI_0019979183_Despacho_2407-15.pdf`
