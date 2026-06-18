@@ -39,3 +39,12 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `Notificacao_01_2026_SEE-ASAI-2-2.pdf`
 - `Oficio-022.2026-IDECACE-Resposta-Nota-Tecnica-SEE-AC-2-IDECACE-3.pdf`
 - `Resposta-a-Manifestacao-IDECACE-assinado-4.pdf`
+
+## Bloco 5 (17/06/2026)
+
+- `Manifestacao-Nota-Tecnica.doc`
+- `NOTA-TECNICA-08-2.doc`
+- `Nota_Tecnica_Alinhamento_Juridico_Acre-3.docx`
+- `Parecer-Tecnico-NF13-DNA-Brasil-2026-4.docx`
+- `Resposta-Nota_Tecnica_Alinhamento_Juridico_Acre-5.docx`
+- `PRESTACAO-DE-CONTAS-ACRE-att-28.06.2026-6.docx`
