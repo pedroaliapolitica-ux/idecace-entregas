@@ -397,3 +397,21 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `21-0016741190_Despacho-14.pdf`
 - `28-0016927095_Anexo-15.pdf`
 - `29-0016927118_Anexo-16.pdf`
+
+## Bloco 20 (17/06/2026) — Tramitação SEI 0016xxxxxx (atesto NF, conformidade)
+
+> Obs.: `28-0016927095_Anexo.pdf` e `29-0016927118_Anexo-2.pdf` ignorados por serem idênticos aos já enviados no Bloco 19.
+
+- `SEI_0016593375_Memorando_307-1-3.pdf`
+- `SEI_0016713234_Relatorio_de_Cumprimento_do_Objeto_1-1-4.pdf`
+- `SEI_0016713295_Atesto_Nota_Fiscal_2-5.pdf`
+- `SEI_0016713383_Justificativa_8-1-6.pdf`
+- `SEI_0016713642_Relatorio_Fotografico-1-7.pdf`
+- `SEI_0016736048_Memorando_139-8.pdf`
+- `SEI_0016740175_Memorando_332-9.pdf`
+- `SEI_0016782326_Memorando_143-10.pdf`
+- `SEI_0016786815_Atesto_Nota_Fiscal_3-11.pdf`
+- `SEI_0016787908_Despacho_61-12.pdf`
+- `SEI_0016790609_Declaracao_de_Conformidade_1667-13.pdf`
+- `SEI_0016797395_Despacho_3042-14.pdf`
+- `SEI_0016927054_Despacho_4190-15.pdf`
