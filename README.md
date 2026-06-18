@@ -266,3 +266,36 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `SEI_0013676553_Portaria_3073-28.pdf`
 - `SEI_0013677339_Termo_de_Ciencia_20-2-29.pdf`
 - `SEI_0013688394_Errata-30.pdf`
+
+## Bloco 15 (17/06/2026) — Tramitação SEI 0013xxxxxx a 0015xxxxxx
+
+> Obs.: `SEI_0013688394_Errata.pdf` ignorado por ser idêntico ao já enviado no Bloco 14.
+
+- `SEI_0013692011_Despacho_3271-2.pdf`
+- `SEI_0013732992_Requisicao_para_fins_de_empenho_291-3.pdf`
+- `SEI_0013733012_Requisicao_para_fins_de_empenho_292-4.pdf`
+- `SEI_0013748594_Relatorio_de_Analise_3183-5.pdf`
+- `SEI_0013748690_Despacho_7003-6.pdf`
+- `SEI_0013753688_Despacho_10646-7.pdf`
+- `SEI_0013754096_Mapa_de_Preco_50-8.pdf`
+- `SEI_0013754097_Mapa_de_Preco_51-9.pdf`
+- `SEI_0013754388_Despacho_7028-10.pdf`
+- `SEI_0013765633_Despacho_2433-11.pdf`
+- `SEI_0013771867_Despacho_7060-12.pdf`
+- `SEI_0013774299_Despacho_71-13.pdf`
+- `SEI_0013774877_Contrato_594-14.pdf`
+- `SEI_0013783515_Portaria_3101-15.pdf`
+- `SEI_0013860173_Despacho_15-16.pdf`
+- `SEI_0014049984_Ordem_de_Servico_ou_de_Fornecimento_de_Bens_34-1-17.pdf`
+- `SEI_0014311538_Despacho_13-18.pdf`
+- `SEI_0014339391_Memorando_12-19.pdf`
+- `SEI_0014379540_Despacho_18-3-20.pdf`
+- `SEI_0014401149_Portaria_512-21.pdf`
+- `SEI_0014450606_Despacho_336-22.pdf`
+- `SEI_0014653181_Memorando_67-1-23.pdf`
+- `SEI_0014654098_Despacho_Decisorio_2-24.pdf`
+- `SEI_0014809611_Memorando_70-3-25.pdf`
+- `SEI_0014835936_Parecer_2-2-26.pdf`
+- `SEI_0015048855_Despacho_2710-27.pdf`
+- `SEI_0015228829_Nota_Tecnica_1-28.pdf`
+- `SEI_0015246390_Memorando_28-29.pdf`
