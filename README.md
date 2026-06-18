@@ -48,3 +48,18 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `Parecer-Tecnico-NF13-DNA-Brasil-2026-4.docx`
 - `Resposta-Nota_Tecnica_Alinhamento_Juridico_Acre-5.docx`
 - `PRESTACAO-DE-CONTAS-ACRE-att-28.06.2026-6.docx`
+
+## Bloco 6 (17/06/2026)
+
+- `PRESTACAO-DE-CONTAS-ACRE-31.03.26vf.docx`
+- `Memorando-Interno-prestacao-de-contas-2.pdf`
+- `Oficio-120.2026-IDECACE-Faturamento-Contrato-SEE-AC-3.pdf`
+- `02-0017418812_Ordem_de_Servico-4.pdf`
+- `03-0017419272_Contrato-5.pdf`
+- `04-0017419318_Termo_Aditivo-6.pdf`
+- `05-0017419402_Extrato_de_Empenho-7.pdf`
+- `06-0017419529_Portaria-8.pdf`
+- `07-0017419591_Nota_Fiscal-9.pdf`
+- `10-0017432323_Relatorio-10.pdf`
+- `11-0017432324_Relatorio-11.pdf`
+- `12-0017432331_Planilha-12.xlsx`
