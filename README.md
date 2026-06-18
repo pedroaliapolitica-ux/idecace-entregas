@@ -23,3 +23,12 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `Oficio-214.2026-IDECACE-Resposta-Manifestacao-Tecnica-21-4.pdf`
 - `Oficio-221.2026-IDECACE-Encaminhamento-Relatorio-Execucao-5.pdf`
 - `Relatorio-Prestacao-Contas-DNA-Acre-6.pdf`
+
+## Bloco 3 (17/06/2026)
+
+- `01_Resumo_Reuniao_DNA_523_2024.pdf`
+- `Gmail-Oficio-221.2026-IDECACE-Relatorio-de-Prestacao-de-Contas-e-Execucao-dos-Servicos-Programa-DNA-do-Brasil-2.pdf`
+- `Gmail-Pedido-de-Respostas-Contrato-SEE_AC-no-523_2024_-IDECACE-3.pdf`
+- `Oficio-064.2026-IDECACE-Resposta-Parecer-16.03.26-1-4.pdf`
+- `Oficio-211.2026-IDECACE-Solicitacao-Prorrogacao-Vigencia-Contrato-523_2024-5.pdf`
+- `Oficio-221-e-anexos-6.pdf`
