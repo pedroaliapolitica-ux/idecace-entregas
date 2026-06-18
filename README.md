@@ -63,3 +63,19 @@ Todos os anexos ficam na pasta `IDECACE-Entregas/`.
 - `10-0017432323_Relatorio-10.pdf`
 - `11-0017432324_Relatorio-11.pdf`
 - `12-0017432331_Planilha-12.xlsx`
+
+## Bloco 7 (17/06/2026)
+
+> Obs.: `12-0017432331_Planilha.xlsx` foi ignorado por ser idêntico ao já enviado no Bloco 6.
+
+- `13-0017432333_Planilha-2.xlsx`
+- `14-0017432335_Certidao-3.pdf`
+- `16-0017432353_Relatorio-4.pdf`
+- `19-0017757159_Comprovante_liq__pgto_e_bordero-5.pdf`
+- `SEI_0017403309_Memorando_386-1-6.pdf`
+- `SEI_0017432292_Relatorio_de_Cumprimento_do_Objeto_2-7.pdf`
+- `SEI_0017432308_Atesto_Nota_Fiscal_4-8.pdf`
+- `SEI_0017432351_Relatorio_Fotografico-9.pdf`
+- `SEI_0017562800_Declaracao_de_Conformidade_2116-10.pdf`
+- `SEI_0017564715_Despacho_4965-11.pdf`
+- `SEI_0017757211_Despacho_5337-12.pdf`
